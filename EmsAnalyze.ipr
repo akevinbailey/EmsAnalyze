@@ -8,6 +8,13 @@
           <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
         </element>
         <element id="module-output" name="EmsAnalyze" />
+        <element id="extracted-dir" path="C:/Java/slf4j/slf4j-1.5.8/slf4j-api-1.5.8.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="C:/Java/slf4j/slf4j-1.5.8/slf4j-log4j12-1.5.8.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="C:/Java/Apache/log4j-1.2.16/log4j-1.2.16.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="C:/tibco/MSG_HOME/ems/8.2/lib/tibjmsadmin.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="C:/tibco/MSG_HOME/ems/8.2/lib/tibjms.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="C:/tibco/MSG_HOME/ems/8.2/lib/tibcrypt.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="C:/tibco/MSG_HOME/ems/8.2/lib/jms-2.0.jar" path-in-jar="/" />
       </root>
     </artifact>
   </component>
