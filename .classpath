@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SLF4j 1.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/TIBCO EMS 8.2 Admin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/TIBCO EMS 8.2 Client"/>
+	<classpathentry kind="output" path="out/production/EmsAnalyze"/>
+</classpath>
